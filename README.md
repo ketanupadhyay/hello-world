@@ -1,2 +1,3 @@
 # hello-world
-Beginner's Tesing Repository
+Beginner's Testing Repository
+Feels good to be working on Github
